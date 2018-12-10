@@ -1,4 +1,4 @@
-# sensitive-data
+# bfg-sensitive-data
 
 Exemplo de remoção de dado sensível do histórico do GitHub com a ferramenta [BFG](https://rtyley.github.io/bfg-repo-cleaner/).
 
