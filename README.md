@@ -83,5 +83,7 @@ being told the truth. Don't give up: https://www.rescue.org/topic/refugees-ameri
 --
 ```
 
+![](https://github.com/vcamaral/sensitive-data/blob/master/images/history.png)
+
 Referências:
 - https://help.github.com/articles/removing-sensitive-data-from-a-repository/
